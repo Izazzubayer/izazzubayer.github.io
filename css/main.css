@@ -655,7 +655,7 @@ select {
     font-size: 18px;
     text-align: center;
     pointer-events: none;
-    color: #252525;
+    color: #e7e7e7;
 }
 
 
@@ -1919,7 +1919,7 @@ header .logo a {
     display: block;
     height: 3px;
     width: 50px;
-    background: rgba(0, 0, 0, 0.2);
+    background: #e7e7e7;
     position: absolute;
     left: 0;
     bottom: 0;
