@@ -1,6 +1,11 @@
 @import url("fonts.css");
 @import url("font-awesome/css/font-awesome.min.css");
 @import url("micons/micons.css");
+@font-face {
+    font-family: brusher;
+    src: url(/webfontkit-20200902-221005/brusher-webfont.woff);
+}
+
 html {
     font-size: 10px;
 }
